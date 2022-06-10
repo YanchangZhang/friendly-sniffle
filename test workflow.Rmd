@@ -32,5 +32,7 @@ v1 <- ggplot(adae) +
   scale_fill_hue(direction = 1) +
   theme_minimal()
 ggplotly(v1)
+
+
 ```
 
